@@ -24,7 +24,4 @@ Overloading/Overwriting:
 Private/Public/Default:
 List/Set/Map:
 
-
-By familiarizing yourself with these basic Java coding concepts, you will be well-prepared to write effective and reliable test code. Feel free to explore the code examples provided in this repository to reinforce your understanding of these concepts.
-
 Happy coding and testing!
